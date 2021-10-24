@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9204" started-at="2021-10-19T13:09:52 IST" finished-at="2021-10-19T13:10:01 IST">
+  <suite name="Default suite" duration-ms="58" started-at="2021-10-22T09:29:00 IST" finished-at="2021-10-22T09:29:00 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9204" started-at="2021-10-19T13:09:52 IST" finished-at="2021-10-19T13:10:01 IST">
-      <class name="com.tests.LocaterStrategyTest">
-        <test-method status="PASS" signature="locatorStrategyTest()[pri:0, instance:com.tests.LocaterStrategyTest@12cdcf4]" name="locatorStrategyTest" duration-ms="9096" started-at="2021-10-19T13:09:52 IST" finished-at="2021-10-19T13:10:01 IST">
+    <test name="Default test" duration-ms="58" started-at="2021-10-22T09:29:00 IST" finished-at="2021-10-22T09:29:00 IST">
+      <class name="com.tests.TestRunner_BiPredicate">
+        <test-method status="PASS" signature="predicateTest()[pri:0, instance:com.tests.TestRunner_BiPredicate@30a3107a]" name="predicateTest" duration-ms="10" started-at="2021-10-22T09:29:00 IST" finished-at="2021-10-22T09:29:00 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- locatorStrategyTest -->
-      </class> <!-- com.tests.LocaterStrategyTest -->
+        </test-method> <!-- predicateTest -->
+      </class> <!-- com.tests.TestRunner_BiPredicate -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
